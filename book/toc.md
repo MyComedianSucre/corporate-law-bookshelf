@@ -1,0 +1,285 @@
+# 书籍目录
+
+原书：The Anatomy of Corporate Law: A Comparative and Functional Approach，第二版（2009）。
+段落定位符是转换时生成的，不是纸书页码。脚注链接指向保留的 EPUB 原始 HTML。
+
+- 第 1 章 [1   What is Corporate Law?](ch01.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_000.html#filepos44412`
+  - 1.1   Introduction — `The_Anatomy_-_Corporate_Law_split_000.html#filepos44736`
+  - 1.2   What is a Corporation? — `The_Anatomy_-_Corporate_Law_split_000.html#filepos56610`
+  - 1.2.1   Legal personality — `The_Anatomy_-_Corporate_Law_split_000.html#filepos57577`
+  - 1.2.2   Limited liability — `The_Anatomy_-_Corporate_Law_split_000.html#filepos66784`
+  - 1.2.3   Transferable shares — `The_Anatomy_-_Corporate_Law_split_000.html#filepos72369`
+  - 1.2.4   Delegated management with a board structure — `The_Anatomy_-_Corporate_Law_split_000.html#filepos76999`
+  - 1.2.5   Investor ownership — `The_Anatomy_-_Corporate_Law_split_000.html#filepos82088`
+  - 1.3   Sources of Corporate Law — `The_Anatomy_-_Corporate_Law_split_000.html#filepos88771`
+  - 1.3.1   Special and partial corporate forms — `The_Anatomy_-_Corporate_Law_split_000.html#filepos89376`
+  - 1.3.2   Other bodies of law — `The_Anatomy_-_Corporate_Law_split_000.html#filepos92507`
+  - 1.4   Law Versus Contract in Corporate Affairs — `The_Anatomy_-_Corporate_Law_split_000.html#filepos96683`
+  - 1.4.1   Mandatory laws versus default provisions — `The_Anatomy_-_Corporate_Law_split_000.html#filepos99001`
+  - 1.4.2   Legal rules versus contract — `The_Anatomy_-_Corporate_Law_split_000.html#filepos107750`
+  - 1.4.3   Regulatory competition — `The_Anatomy_-_Corporate_Law_split_000.html#filepos114678`
+  - 1.5   What is the Goal of Corporate Law? — `The_Anatomy_-_Corporate_Law_split_000.html#filepos120138`
+  - 1.6   What Forces Shape Corporate Law? — `The_Anatomy_-_Corporate_Law_split_000.html#filepos123568`
+  - 1.6.1   Patterns of corporate ownership — `The_Anatomy_-_Corporate_Law_split_000.html#filepos124577`
+  - 1.6.2   International competition — `The_Anatomy_-_Corporate_Law_split_000.html#filepos132444`
+  - 1.6.3   Cross-jurisdictional coordination — `The_Anatomy_-_Corporate_Law_split_000.html#filepos134485`
+- 第 2 章 [2   Agency Problems and Legal Strategies](ch02.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_000.html#filepos138616`
+  - 2.1   Three Agency Problems — `The_Anatomy_-_Corporate_Law_split_000.html#filepos138937`
+  - 2.2   Legal Strategies for Reducing Agency Costs — `The_Anatomy_-_Corporate_Law_split_000.html#filepos146232`
+  - 2.2.1   Regulatory strategies — `The_Anatomy_-_Corporate_Law_split_000.html#filepos153806`
+  - 2.2.2   Governance strategies — `The_Anatomy_-_Corporate_Law_split_000.html#filepos161354`
+  - 2.2.3 Ex post and ex ante strategies — `The_Anatomy_-_Corporate_Law_split_000.html#filepos167207`
+  - 2.3   Compliance and Enforcement — `The_Anatomy_-_Corporate_Law_split_000.html#filepos171044`
+  - 2.3.1   Enforcement and intervention — `The_Anatomy_-_Corporate_Law_split_000.html#filepos171638`
+  - 2.3.2   Modes of enforcement — `The_Anatomy_-_Corporate_Law_split_000.html#filepos173536`
+  - 2.4   Disclosure — `The_Anatomy_-_Corporate_Law_split_000.html#filepos182191`
+  - 2.5   Legal Strategies in Corporate Context — `The_Anatomy_-_Corporate_Law_split_000.html#filepos185577`
+  - 2.6   Systematic differences — `The_Anatomy_-_Corporate_Law_split_000.html#filepos189491`
+- 第 3 章 [3   The Basic Governance Structure: The Interests of Shareholders as a Class](ch03.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_000.html#filepos193969`
+  - 3.1   Appointment Rights and Shareholder Interests — `The_Anatomy_-_Corporate_Law_split_000.html#filepos196264`
+  - 3.1.1   Managerial power and corporate boards — `The_Anatomy_-_Corporate_Law_split_000.html#filepos197661`
+  - 3.1.2   Nominating directors and the mechanics of voting — `The_Anatomy_-_Corporate_Law_split_000.html#filepos201774`
+  - 3.1.3   The power to remove directors — `The_Anatomy_-_Corporate_Law_split_000.html#filepos207194`
+  - 3.1.4   Facilitating collective action — `The_Anatomy_-_Corporate_Law_split_000.html#filepos210505`
+  - 3.2   The Trusteeship Strategy: Independent Directors — `The_Anatomy_-_Corporate_Law_split_000.html#filepos214224`
+  - 3.3   Board Structure and International Best Practices — `The_Anatomy_-_Corporate_Law_split_000.html#filepos220264`
+  - 3.3.1   National codes of best practices — `The_Anatomy_-_Corporate_Law_split_001.html`
+  - 3.3.2   Best practices and board structure — `The_Anatomy_-_Corporate_Law_split_001.html#filepos226164`
+  - 3.4   Decision Rights and Shareholder Interests — `The_Anatomy_-_Corporate_Law_split_001.html#filepos235946`
+  - 3.5   The Reward Strategy — `The_Anatomy_-_Corporate_Law_split_001.html#filepos242539`
+  - 3.6   Legal Constraints and Affiliation Rights — `The_Anatomy_-_Corporate_Law_split_001.html#filepos251224`
+  - 3.6.1   The constraints strategy — `The_Anatomy_-_Corporate_Law_split_001.html#filepos252343`
+  - 3.6.2   Corporate governance-related disclosure — `The_Anatomy_-_Corporate_Law_split_001.html#filepos257209`
+  - 3.7   Explaining Jurisdictional Similarities and Differences — `The_Anatomy_-_Corporate_Law_split_001.html#filepos259540`
+- 第 4 章 [4   The Basic Governance Structure: Minority Shareholders and Non-Shareholder Constituencies](ch04.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_001.html#filepos274408`
+  - 4.1   Protecting Minority Shareholders — `The_Anatomy_-_Corporate_Law_split_001.html#filepos276278`
+  - 4.1.1   Minority shareholder appointment rights — `The_Anatomy_-_Corporate_Law_split_001.html#filepos277277`
+  - 4.1.2   Minority shareholder decision rights — `The_Anatomy_-_Corporate_Law_split_001.html#filepos283097`
+  - 4.1.3   The incentive strategy: trusteeship and equal treatment — `The_Anatomy_-_Corporate_Law_split_001.html#filepos287022`
+  - 4.1.4   Constraints and affiliation rights — `The_Anatomy_-_Corporate_Law_split_001.html#filepos300067`
+  - 4.2   Protecting Employees — `The_Anatomy_-_Corporate_Law_split_001.html#filepos302924`
+  - 4.2.1   Appointment and decision rights strategies — `The_Anatomy_-_Corporate_Law_split_001.html#filepos303694`
+  - 4.2.2   The incentives strategy — `The_Anatomy_-_Corporate_Law_split_001.html#filepos308912`
+  - 4.2.3   The constraints strategy — `The_Anatomy_-_Corporate_Law_split_001.html#filepos313705`
+  - 4.3   Explaining Jurisdictional Differences and Similarities — `The_Anatomy_-_Corporate_Law_split_001.html#filepos315704`
+  - 4.3.1   The law-on-the-books — `The_Anatomy_-_Corporate_Law_split_001.html#filepos316688`
+  - 4.3.2   The law in practice — `The_Anatomy_-_Corporate_Law_split_001.html#filepos322284`
+- 第 5 章 [5   Transactions with Creditors](ch05.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_001.html#filepos337430`
+  - 5.1   Why Should Corporate Law Deal with Creditors? — `The_Anatomy_-_Corporate_Law_split_001.html#filepos338815`
+  - 5.1.1   Shareholder-creditor agency problems — `The_Anatomy_-_Corporate_Law_split_001.html#filepos340057`
+  - 5.1.2   Creditor-creditor coordination and agency problems — `The_Anatomy_-_Corporate_Law_split_001.html#filepos353369`
+  - 5.2   Solvent Firms — `The_Anatomy_-_Corporate_Law_split_001.html#filepos359771`
+  - 5.2.1   The affiliation strategy—mandatory disclosure — `The_Anatomy_-_Corporate_Law_split_001.html#filepos359894`
+  - 5.2.2   The rules strategy: legal capital — `The_Anatomy_-_Corporate_Law_split_001.html#filepos374801`
+  - 5.3   Distressed Firms — `The_Anatomy_-_Corporate_Law_split_001.html#filepos384444`
+  - 5.3.1   The standards strategy — `The_Anatomy_-_Corporate_Law_split_001.html#filepos384570`
+  - 5.3.2   Governance strategies — `The_Anatomy_-_Corporate_Law_split_001.html#filepos406542`
+  - 5.4   Ownership Regimes and Creditor Protection — `The_Anatomy_-_Corporate_Law_split_001.html#filepos417781`
+  - 5.4.1   Regulatory or contractual controls? — `The_Anatomy_-_Corporate_Law_split_001.html#filepos420768`
+  - 5.4.2   The role of bankruptcy law — `The_Anatomy_-_Corporate_Law_split_001.html#filepos423178`
+  - 5.4.3   Managerial incentives — `The_Anatomy_-_Corporate_Law_split_002.html`
+- 第 6 章 [6   Related-Party Transactions](ch06.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_002.html#filepos429010`
+  - 6.1   Why are Related-Party Transactions Permitted at All? — `The_Anatomy_-_Corporate_Law_split_002.html#filepos433032`
+  - 6.2   Legal Strategies for Related-Party Transactions — `The_Anatomy_-_Corporate_Law_split_002.html#filepos435835`
+  - 6.2.1   The affiliation strategy — `The_Anatomy_-_Corporate_Law_split_002.html#filepos436438`
+  - 6.2.2   Agent incentives strategies — `The_Anatomy_-_Corporate_Law_split_002.html#filepos452869`
+  - 6.2.3   Shareholder voting: the decision rights strategy — `The_Anatomy_-_Corporate_Law_split_002.html#filepos464022`
+  - 6.2.4   Prohibiting conflicted transactions: the rules strategy — `The_Anatomy_-_Corporate_Law_split_002.html#filepos470793`
+  - 6.2.5   The standards strategy: the duty of loyalty and group law — `The_Anatomy_-_Corporate_Law_split_002.html#filepos479027`
+  - 6.3   Ownership Regimes and Related-Party Transactions — `The_Anatomy_-_Corporate_Law_split_002.html#filepos494765`
+- 第 7 章 [7   Fundamental Changes](ch07.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_002.html#filepos505313`
+  - 7.1   What are Fundamental Changes in the Relationship Among the Participants in the Firm? — `The_Anatomy_-_Corporate_Law_split_002.html#filepos507694`
+  - 7.2   Charter Amendments — `The_Anatomy_-_Corporate_Law_split_002.html#filepos513634`
+  - 7.2.1   The management-shareholder conflict in charter amendments — `The_Anatomy_-_Corporate_Law_split_002.html#filepos523333`
+  - 7.2.2   The majority-minority shareholder conflict in charter amendments — `The_Anatomy_-_Corporate_Law_split_002.html#filepos524400`
+  - 7.3   Share Issuance — `The_Anatomy_-_Corporate_Law_split_002.html#filepos530609`
+  - 7.3.1   The manager-shareholder conflict — `The_Anatomy_-_Corporate_Law_split_002.html#filepos531126`
+  - 7.3.2   The majority-minority conflict — `The_Anatomy_-_Corporate_Law_split_002.html#filepos535698`
+  - 7.4   Mergers — `The_Anatomy_-_Corporate_Law_split_002.html#filepos540850`
+  - 7.4.1   The management-shareholder conflict in mergers — `The_Anatomy_-_Corporate_Law_split_002.html#filepos544933`
+  - 7.4.2   The majority-minority shareholder conflict in mergers (including freeze-out mergers) — `The_Anatomy_-_Corporate_Law_split_002.html#filepos554766`
+  - 7.4.3   The protection of non-shareholder constituencies in mergers — `The_Anatomy_-_Corporate_Law_split_002.html#filepos570444`
+  - 7.5   Corporate Divisions and Sales of Assets — `The_Anatomy_-_Corporate_Law_split_002.html#filepos578510`
+  - 7.5.1   The manager-shareholder conflict in divisions — `The_Anatomy_-_Corporate_Law_split_002.html#filepos583291`
+  - 7.5.2   The protection of non-shareholder constituencies in divisions — `The_Anatomy_-_Corporate_Law_split_002.html#filepos584102`
+  - 7.6   Reincorporation — `The_Anatomy_-_Corporate_Law_split_002.html#filepos586613`
+  - 7.7   Voluntary Liquidation — `The_Anatomy_-_Corporate_Law_split_002.html#filepos594379`
+  - 7.8   General Provisions on Significant Transactions — `The_Anatomy_-_Corporate_Law_split_002.html#filepos598750`
+  - 7.9   Explaining Differences in the Regulation of Significant Corporate Changes — `The_Anatomy_-_Corporate_Law_split_002.html#filepos604249`
+- 第 8 章 [8   Control Transactions](ch08.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_002.html#filepos611792`
+  - 8.1   Agency Problems in Control Transactions — `The_Anatomy_-_Corporate_Law_split_002.html#filepos612087`
+  - 8.1.1   Control transactions — `The_Anatomy_-_Corporate_Law_split_002.html#filepos612236`
+  - 8.1.2   Agency and coordination issues — `The_Anatomy_-_Corporate_Law_split_002.html#filepos617877`
+  - 8.2   Agency Problems Where There is No Controlling Shareholder — `The_Anatomy_-_Corporate_Law_split_003.html#filepos634149`
+  - 8.2.1   The decision rights choice: shareholders only or shareholders and board jointly — `The_Anatomy_-_Corporate_Law_split_003.html#filepos634316`
+  - 8.2.2   The ‘no frustration’ rule — `The_Anatomy_-_Corporate_Law_split_003.html#filepos635983`
+  - 8.2.3   Joint decision-making — `The_Anatomy_-_Corporate_Law_split_003.html#filepos648757`
+  - 8.2.4   Pre-bid defensive measures — `The_Anatomy_-_Corporate_Law_split_003.html#filepos667475`
+  - 8.2.5   Agency and coordination problems of target shareholders when there is no controlling shareholder — `The_Anatomy_-_Corporate_Law_split_003.html#filepos673209`
+  - 8.3   Agency Issues Upon Acquisition from an Existing Controlling Shareholder — `The_Anatomy_-_Corporate_Law_split_003.html#filepos697248`
+  - 8.3.1   Exit rights and premium-sharing — `The_Anatomy_-_Corporate_Law_split_003.html#filepos698768`
+  - 8.3.2   Facilitating bids for controlled companies — `The_Anatomy_-_Corporate_Law_split_003.html#filepos706595`
+  - 8.4   Acquisition of Non-Accepting Minorities — `The_Anatomy_-_Corporate_Law_split_003.html#filepos715717`
+  - 8.5   Agency Problems of Non-Shareholder Groups — `The_Anatomy_-_Corporate_Law_split_003.html#filepos720649`
+  - 8.6   Explaining Differences in the Regulation of Control Transaction — `The_Anatomy_-_Corporate_Law_split_003.html#filepos725647`
+- 第 9 章 [9   Issuers and Investor Protection](ch09.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_003.html#filepos741362`
+  - 9.1   The Objectives of Investor Protection — `The_Anatomy_-_Corporate_Law_split_004.html`
+  - 9.2   Investor Protection and Legal Strategies — `The_Anatomy_-_Corporate_Law_split_004.html#filepos748034`
+  - 9.2.1   The paradigmatic entry strategy: mandatory disclosure — `The_Anatomy_-_Corporate_Law_split_004.html#filepos749167`
+  - 9.2.2   Quality controls: governance and regulatory strategies — `The_Anatomy_-_Corporate_Law_split_004.html#filepos776000`
+  - 9.3   Enforcement of Investor Protection Strategies — `The_Anatomy_-_Corporate_Law_split_005.html`
+  - 9.3.1   Private enforcement — `The_Anatomy_-_Corporate_Law_split_005.html#filepos789580`
+  - 9.3.2   Public enforcement — `The_Anatomy_-_Corporate_Law_split_005.html#filepos794012`
+  - 9.3.3   Gatekeeper enforcement — `The_Anatomy_-_Corporate_Law_split_005.html#filepos798263`
+  - 9.3.4   The informativeness of financial reports — `The_Anatomy_-_Corporate_Law_split_005.html#filepos802611`
+  - 9.4   Ownership Regimes and Investor Protection — `The_Anatomy_-_Corporate_Law_split_005.html#filepos804820`
+- 第 10 章 [10   Beyond the Anatomy](ch10.md) — EPUB: `The_Anatomy_-_Corporate_Law_split_005.html#filepos813115`
+  - 10.1   Ownership Structures and Agency Problems — `The_Anatomy_-_Corporate_Law_split_006.html`
+  - 10.1.1   The managers-shareholders conflict — `The_Anatomy_-_Corporate_Law_split_006.html#filepos820555`
+  - 10.1.2   The controlling-minority shareholders conflict — `The_Anatomy_-_Corporate_Law_split_006.html#filepos826758`
+  - 10.1.3   The shareholders-non shareholders conflict — `The_Anatomy_-_Corporate_Law_split_007.html`
+  - 10.2   Looking Forward — `The_Anatomy_-_Corporate_Law_split_007.html#filepos837277`
+
+其他文件：front.md（前置内容）、index.md（索引和部分尾注）、009_notes.md 至 012_notes.md（其余尾注及其他末尾内容，按 EPUB 顺序）。正文脚注可能链接至 split_008.html 或后续文件。
+完整原始 EPUB 内容保存在 epub_source/，图片和原 HTML 链接可从中检查。
+
+## 小节文件索引
+
+整章文件保持原位；小节文件按原文顺序排列，保留同一套段落编号。二级标题下、三级标题之前的内容列为引言。
+
+- [ch01 / intro 本章开头](sections/ch01-intro.md)
+- [ch01 / 1.1 Introduction](sections/ch01-1.1-intro.md)
+- [ch01 / 1.2 What is a Corporation?](sections/ch01-1.2-intro.md)
+- [ch01 / 1.2.1 Legal personality](sections/ch01-1.2.1.md)
+- [ch01 / 1.2.2 Limited liability](sections/ch01-1.2.2.md)
+- [ch01 / 1.2.3 Transferable shares](sections/ch01-1.2.3.md)
+- [ch01 / 1.2.4 Delegated management with a board structure](sections/ch01-1.2.4.md)
+- [ch01 / 1.2.5 Investor ownership](sections/ch01-1.2.5.md)
+- [ch01 / 1.3 Sources of Corporate Law](sections/ch01-1.3-intro.md)
+- [ch01 / 1.3.1 Special and partial corporate forms](sections/ch01-1.3.1.md)
+- [ch01 / 1.3.2 Other bodies of law](sections/ch01-1.3.2.md)
+- [ch01 / 1.4 Law Versus Contract in Corporate Affairs](sections/ch01-1.4-intro.md)
+- [ch01 / 1.4.1 Mandatory laws versus default provisions](sections/ch01-1.4.1.md)
+- [ch01 / 1.4.2 Legal rules versus contract](sections/ch01-1.4.2.md)
+- [ch01 / 1.4.3 Regulatory competition](sections/ch01-1.4.3.md)
+- [ch01 / 1.5 What is the Goal of Corporate Law?](sections/ch01-1.5-intro.md)
+- [ch01 / 1.6 What Forces Shape Corporate Law?](sections/ch01-1.6-intro.md)
+- [ch01 / 1.6.1 Patterns of corporate ownership](sections/ch01-1.6.1.md)
+- [ch01 / 1.6.2 International competition](sections/ch01-1.6.2.md)
+- [ch01 / 1.6.3 Cross-jurisdictional coordination](sections/ch01-1.6.3.md)
+- [ch02 / intro 本章开头](sections/ch02-intro.md)
+- [ch02 / 2.1 Three Agency Problems](sections/ch02-2.1-intro.md)
+- [ch02 / 2.2 Legal Strategies for Reducing Agency Costs](sections/ch02-2.2-intro.md)
+- [ch02 / 2.2.1 Regulatory strategies](sections/ch02-2.2.1.md)
+- [ch02 / 2.2.2 Governance strategies](sections/ch02-2.2.2.md)
+- [ch02 / 2.2.3 Ex post and ex ante strategies](sections/ch02-2.2.3.md)
+- [ch02 / 2.3 Compliance and Enforcement](sections/ch02-2.3-intro.md)
+- [ch02 / 2.3.1 Enforcement and intervention](sections/ch02-2.3.1.md)
+- [ch02 / 2.3.2 Modes of enforcement](sections/ch02-2.3.2.md)
+- [ch02 / 2.4 Disclosure](sections/ch02-2.4-intro.md)
+- [ch02 / 2.5 Legal Strategies in Corporate Context](sections/ch02-2.5-intro.md)
+- [ch02 / 2.6 Systematic Differences](sections/ch02-2.6-intro.md)
+- [ch03 / intro 本章开头](sections/ch03-intro.md)
+- [ch03 / 3.1 Appointment Rights and Shareholder Interests](sections/ch03-3.1-intro.md)
+- [ch03 / 3.1.1 Managerial power and corporate boards](sections/ch03-3.1.1.md)
+- [ch03 / 3.1.2 Nominating directors and the mechanics of voting](sections/ch03-3.1.2.md)
+- [ch03 / 3.1.3 The power to remove directors](sections/ch03-3.1.3.md)
+- [ch03 / 3.1.4 Facilitating collective action](sections/ch03-3.1.4.md)
+- [ch03 / 3.2 The Trusteeship Strategy: Independent Directors](sections/ch03-3.2-intro.md)
+- [ch03 / 3.3 Board Structure and International Best Practices](sections/ch03-3.3-intro.md)
+- [ch03 / 3.3.1 National codes of best practices](sections/ch03-3.3.1.md)
+- [ch03 / 3.3.2 Best practices and board structure](sections/ch03-3.3.2.md)
+- [ch03 / 3.4 Decision Rights and Shareholder Interests](sections/ch03-3.4-intro.md)
+- [ch03 / 3.5 The Reward Strategy](sections/ch03-3.5-intro.md)
+- [ch03 / 3.6 Legal Constraints and Affiliation Rights](sections/ch03-3.6-intro.md)
+- [ch03 / 3.6.1 The constraints strategy](sections/ch03-3.6.1.md)
+- [ch03 / 3.6.2 Corporate governance-related disclosure](sections/ch03-3.6.2.md)
+- [ch03 / 3.7 Explaining Jurisdictional Similarities and Differences](sections/ch03-3.7-intro.md)
+- [ch04 / intro 本章开头](sections/ch04-intro.md)
+- [ch04 / 4.1 Protecting Minority Shareholders](sections/ch04-4.1-intro.md)
+- [ch04 / 4.1.1 Minority shareholder appointment rights](sections/ch04-4.1.1.md)
+- [ch04 / 4.1.2 Minority shareholder decision rights](sections/ch04-4.1.2.md)
+- [ch04 / 4.1.3 The incentive strategy: trusteeship and equal treatment](sections/ch04-4.1.3.md)
+- [ch04 / 4.1.4 Constraints and affiliation rights](sections/ch04-4.1.4.md)
+- [ch04 / 4.2 Protecting Employees](sections/ch04-4.2-intro.md)
+- [ch04 / 4.2.1 Appointment and decision rights strategies](sections/ch04-4.2.1.md)
+- [ch04 / 4.2.2 The incentives strategy](sections/ch04-4.2.2.md)
+- [ch04 / 4.2.3 The constraints strategy](sections/ch04-4.2.3.md)
+- [ch04 / 4.3 Explaining Jurisdictional Differences and Similarities](sections/ch04-4.3-intro.md)
+- [ch04 / 4.3.1 The law-on-the-books](sections/ch04-4.3.1.md)
+- [ch04 / 4.3.2 The law in practice](sections/ch04-4.3.2.md)
+- [ch05 / intro 本章开头](sections/ch05-intro.md)
+- [ch05 / 5.1 Why Should Corporate Law Deal with Creditors?](sections/ch05-5.1-intro.md)
+- [ch05 / 5.1.1 Shareholder-creditor agency problems](sections/ch05-5.1.1.md)
+- [ch05 / 5.1.2 Creditor-creditor coordination and agency problems](sections/ch05-5.1.2.md)
+- [ch05 / 5.2 Solvent Firms](sections/ch05-5.2-intro.md)
+- [ch05 / 5.2.1 The affiliation strategy—mandatory disclosure](sections/ch05-5.2.1.md)
+- [ch05 / 5.2.2 The rules strategy: legal capital](sections/ch05-5.2.2.md)
+- [ch05 / 5.3 Distressed Firms](sections/ch05-5.3-intro.md)
+- [ch05 / 5.3.1 The standards strategy](sections/ch05-5.3.1.md)
+- [ch05 / 5.3.2 Governance strategies](sections/ch05-5.3.2.md)
+- [ch05 / 5.4 Ownership Regimes and Creditor Protection](sections/ch05-5.4-intro.md)
+- [ch05 / 5.4.1 Regulatory or contractual controls?](sections/ch05-5.4.1.md)
+- [ch05 / 5.4.2 The role of bankruptcy law](sections/ch05-5.4.2.md)
+- [ch05 / 5.4.3 Managerial incentives](sections/ch05-5.4.3.md)
+- [ch06 / intro 本章开头](sections/ch06-intro.md)
+- [ch06 / 6.1 Why Are Related-Party Transactions Permitted at All?](sections/ch06-6.1-intro.md)
+- [ch06 / 6.2 Legal Strategies for Related-Party Transactions](sections/ch06-6.2-intro.md)
+- [ch06 / 6.2.1 The affiliation strategy](sections/ch06-6.2.1.md)
+- [ch06 / 6.2.2 Agent incentives strategies](sections/ch06-6.2.2.md)
+- [ch06 / 6.2.3 Shareholder voting: the decision rights strategy](sections/ch06-6.2.3.md)
+- [ch06 / 6.2.4 Prohibiting conflicted transactions: the rules strategy](sections/ch06-6.2.4.md)
+- [ch06 / 6.2.5 The standards strategy: the duty of loyalty and group law](sections/ch06-6.2.5.md)
+- [ch06 / 6.3 Ownership Regimes and Related-Party Transactions](sections/ch06-6.3-intro.md)
+- [ch07 / intro 本章开头](sections/ch07-intro.md)
+- [ch07 / 7.1 What are Fundamental Changes in the Relationship Among the Participants in the Firm?](sections/ch07-7.1-intro.md)
+- [ch07 / 7.2 Charter Amendments](sections/ch07-7.2-intro.md)
+- [ch07 / 7.2.1 The management-shareholder conflict in charter amendments](sections/ch07-7.2.1.md)
+- [ch07 / 7.2.2 The majority-minority shareholder conflict in charter amendments](sections/ch07-7.2.2.md)
+- [ch07 / 7.3 Share Issuance](sections/ch07-7.3-intro.md)
+- [ch07 / 7.3.1 The manager-shareholder conflict](sections/ch07-7.3.1.md)
+- [ch07 / 7.3.2 The majority-minority conflict](sections/ch07-7.3.2.md)
+- [ch07 / 7.4 Mergers](sections/ch07-7.4-intro.md)
+- [ch07 / 7.4.1 The management-shareholder conflict in mergers](sections/ch07-7.4.1.md)
+- [ch07 / 7.4.2 The majority-minority shareholder conflict in mergers (including freeze-out mergers)](sections/ch07-7.4.2.md)
+- [ch07 / 7.4.3 The protection of non-shareholder constituencies in mergers](sections/ch07-7.4.3.md)
+- [ch07 / 7.5 Corporate Divisions and Sales of Assets](sections/ch07-7.5-intro.md)
+- [ch07 / 7.5.1 The manager-shareholder conflict in divisions](sections/ch07-7.5.1.md)
+- [ch07 / 7.5.2 The protection of non-shareholder constituencies in divisions](sections/ch07-7.5.2.md)
+- [ch07 / 7.6 Reincorporation](sections/ch07-7.6-intro.md)
+- [ch07 / 7.7 Voluntary Liquidation](sections/ch07-7.7-intro.md)
+- [ch07 / 7.8 General Provisions on Significant Transactions](sections/ch07-7.8-intro.md)
+- [ch07 / 7.9 Explaining Differences in the Regulation of Significant Corporate Changes](sections/ch07-7.9-intro.md)
+- [ch08 / intro 本章开头](sections/ch08-intro.md)
+- [ch08 / 8.1 Agency Problems in Control Transactions](sections/ch08-8.1-intro.md)
+- [ch08 / 8.1.1 Control transactions](sections/ch08-8.1.1.md)
+- [ch08 / 8.1.2 Agency and coordination issues](sections/ch08-8.1.2.md)
+- [ch08 / 8.2 Agency Problems Where There is No Controlling Shareholder](sections/ch08-8.2-intro.md)
+- [ch08 / 8.2.1 The decision rights choice: shareholders only or shareholders and board jointly](sections/ch08-8.2.1.md)
+- [ch08 / 8.2.2 The ‘no frustration’ rule](sections/ch08-8.2.2.md)
+- [ch08 / 8.2.3 Joint decision-making](sections/ch08-8.2.3.md)
+- [ch08 / 8.2.4 Pre-bid defensive measures](sections/ch08-8.2.4.md)
+- [ch08 / 8.2.5 Agency and coordination problems of target shareholders when there is no controlling shareholder](sections/ch08-8.2.5.md)
+- [ch08 / 8.3 Agency Issues upon Acquisition from an Existing Controlling Shareholder](sections/ch08-8.3-intro.md)
+- [ch08 / 8.3.1 Exit rights and premium-sharing](sections/ch08-8.3.1.md)
+- [ch08 / 8.3.2 Facilitating bids for controlled companies](sections/ch08-8.3.2.md)
+- [ch08 / 8.4 Acquisition of Non-Accepting Minorities](sections/ch08-8.4-intro.md)
+- [ch08 / 8.5 Agency Problems of Non-Shareholder Groups](sections/ch08-8.5-intro.md)
+- [ch08 / 8.6 Explaining Differences in the Regulation of Control Transaction](sections/ch08-8.6-intro.md)
+- [ch09 / intro 本章开头](sections/ch09-intro.md)
+- [ch09 / 9.1 The Objectives of Investor Protection](sections/ch09-9.1-intro.md)
+- [ch09 / 9.2 Investor Protection and Legal Strategies](sections/ch09-9.2-intro.md)
+- [ch09 / 9.2.1 The paradigmatic entry strategy: mandatory disclosure](sections/ch09-9.2.1.md)
+- [ch09 / 9.2.2 Quality controls: governance and regulatory strategies](sections/ch09-9.2.2.md)
+- [ch09 / 9.3 Enforcement of Investor Protection Strategies](sections/ch09-9.3-intro.md)
+- [ch09 / 9.3.1 Private enforcement](sections/ch09-9.3.1.md)
+- [ch09 / 9.3.2 Public enforcement](sections/ch09-9.3.2.md)
+- [ch09 / 9.3.3 Gatekeeper enforcement](sections/ch09-9.3.3.md)
+- [ch09 / 9.3.4 The informativeness of financial reports](sections/ch09-9.3.4.md)
+- [ch09 / 9.4 Ownership Regimes and Investor Protection](sections/ch09-9.4-intro.md)
+- [ch10 / intro 本章开头](sections/ch10-intro.md)
+- [ch10 / 10.1 Ownership Structures and Agency Problems](sections/ch10-10.1-intro.md)
+- [ch10 / 10.1.1 The managers-shareholders conflict](sections/ch10-10.1.1.md)
+- [ch10 / 10.1.2 The controlling-minority shareholders conflict](sections/ch10-10.1.2.md)
+- [ch10 / 10.1.3 The shareholders-non shareholders conflict](sections/ch10-10.1.3.md)
+- [ch10 / 10.2 Looking Forward](sections/ch10-10.2-intro.md)
