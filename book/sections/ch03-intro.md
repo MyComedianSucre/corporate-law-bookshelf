@@ -1,6 +1,6 @@
 # ch03 / intro 本章开头
 
-来源：[整章](../ch03.md)；段落编号与整章一致。
+段落编号在全章内连续；完整章节按目录顺序读取。
 
 <a id="ch03-p0001"></a>
 ## 3 The Basic Governance Structure: The Interests of Shareholders as a Class  
